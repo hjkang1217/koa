@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "joi": "^17.4.2",
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
-    "koa-router": "^10.0.0"
+    "koa-router": "^10.0.0",
+    "koa-router-joi-validation": "^1.2.2"
   },
   "devDependencies": {
     "@types/koa": "^2.13.4",
